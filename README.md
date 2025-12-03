@@ -80,9 +80,9 @@ Final ranking prints using BST ordering
 🛠️ Compilation
 
 Make sure GCC is installed.
-
+```bash
 gcc card_game_with_data_structures.c -o card_game
-
+```
 
 Run:
 ```bash

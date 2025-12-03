@@ -85,8 +85,9 @@ gcc card_game_with_data_structures.c -o card_game
 
 
 Run:
-
+```bash
 ./card_game
+```
 
 📁 File Structure
 card-game-ds/

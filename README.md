@@ -90,9 +90,11 @@ Run:
 ```
 
 📁 File Structure
+```bash
 card-game-ds/
 │── card_game_with_data_structures.c
 │── README.md
+```
 
 🧠 Concepts Demonstrated
 

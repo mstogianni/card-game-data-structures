@@ -95,15 +95,15 @@ card-game-ds/
 
 🧠 Concepts Demonstrated
 
-✔ Stack (LIFO)
-✔ Queue (FIFO)
-✔ Circular Queue
-✔ Linked List
-✔ Binary Search Tree (BST)
-✔ Structs in C
-✔ Dynamic memory management (malloc, free)
-✔ Fisher–Yates shuffle algorithm
-✔ Modular game logic
-✔ Multi-structure interaction in one program
+- Stack (LIFO)
+- Queue (FIFO)
+- Circular Queue
+- Linked List
+- Binary Search Tree (BST)
+- Structs in C
+- Dynamic memory management (malloc, free)
+- Fisher–Yates shuffle algorithm
+- Modular game logic
+- Multi-structure interaction in one program
 
 This project highlights multi-structure orchestration — perfect for demonstrating strong understanding of data structures in real applications.
